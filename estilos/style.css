@@ -1,7 +1,8 @@
 *{
     font-family:arial,Helvetica, sans-serif;
     font-size: 16px;
-}
+    }
+
 body {
     background-color: rgb(126, 104, 77);
 }
@@ -12,4 +13,20 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(88, 41, 41, 0.212);
-}
+
+    }
+
+
+    h1{
+        font-size: 2cm;
+        color: rgb(113, 211, 211);
+    }
+    
+    h2{
+        font-size: 1cm;
+        color: rgb(140, 212, 188);
+    }
+
+    img.lado{
+        float: right;
+    }
