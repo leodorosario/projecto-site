@@ -3,7 +3,7 @@
     font-size: 16px;
 }
 body {
-    background-color: rgb(102, 66, 21);
+    background-color: rgb(139, 117, 89);
 }
 
 main{
@@ -11,5 +11,5 @@ main{
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.212);
+    box-shadow: 3px 3px 5px rgba(161, 107, 107, 0.212);
 }
